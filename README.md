@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Amanda!
 - 👀 I’m interested in Marvel Comics and Nike shoes
 - 🌱 I’m currently learning?
-- 💞️ See you every friday
 
 <!---
 kallyziaa/kallyziaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
